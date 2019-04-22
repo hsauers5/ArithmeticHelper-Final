@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ArithmeticHelper:jar">
+    <output-path>$PROJECT_DIR$/src/</output-path>
+    <root id="archive" name="ArithmeticHelper.jar">
+      <element id="module-output" name="ArithmeticHelper" />
+    </root>
+  </artifact>
+</component>
